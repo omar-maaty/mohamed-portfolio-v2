@@ -44,7 +44,7 @@ export function AboutSection() {
                 {/* Soft rounded square container */}
                 <div className="relative z-10 rounded-2xl overflow-hidden shadow-lg border border-muted">
                   <img 
-                    src="https://raw.githubusercontent.com/eng-omar77/portfolio-assets/main/تصميم%20بدون%20عنوان.png" 
+                    src="https://raw.githubusercontent.com/omar-maaty/mohamed-portfolio-v2/refs/heads/main/pic.png" 
                     alt="Profile" 
                     className="w-full h-full object-cover aspect-square"
                   />
